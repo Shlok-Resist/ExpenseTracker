@@ -6,7 +6,6 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox as mb
 from tkinter import ttk
-
 import matplotlib.pyplot as plt
 import pandas as pd
 from fpdf import FPDF
